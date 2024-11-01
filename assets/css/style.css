@@ -1,0 +1,17 @@
+.let_us_know_form {
+	position: relative;
+    left: 93px;
+    margin-top: 3px;
+    border: solid 2px #007cba;
+    border-radius: 5px;
+    width: 246px;
+    padding: 15px;
+    padding-bottom: 0px;
+	display:none;
+}
+.let_us_know{
+	color:#0073aa;
+}
+.let_us_know:hover {
+ cursor:pointer;
+}
